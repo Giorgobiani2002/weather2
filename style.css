@@ -1,0 +1,36 @@
+@media screen and (max-width: 783px) and (min-width:461.6px) {
+  html {
+    font-size: 6px;
+  }
+  body .main-container {
+    background-image: url(./assets/png/4f6ff00a8fc0eb0798fedfcde9ded9c1.jpeg);
+    height: 97.9rem;
+  }
+  body .main-container .all-info {
+    background-image: url(./assets/png/bg-blur2.png);
+    background-repeat: round;
+  }
+  body .main-container .all-info{
+    height: 57rem;
+  }
+}
+@media screen and (max-width:461.5px){
+    html {
+        font-size: 5px;
+      }
+      body .main-container {
+        background-image: url(./assets/png/4f6ff00a8fc0eb0798fedfcde9ded9c1.jpeg);
+      }
+      body .main-container .all-info {
+        background-image: url(./assets/png/bg-blur2.png);
+        background-repeat: round;
+      }
+      body .main-container .all-info{
+        height: 65rem;
+      }
+      body .main-container{
+        height: 101.9rem;
+      }
+
+}
+
