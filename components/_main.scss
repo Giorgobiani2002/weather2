@@ -2,7 +2,7 @@ body {
   .main-container {
     width: 76.8rem;
     height: 93.9rem;
-    background-image: url(../assets/png/bg-weather.png);
+    background-image: url(./assets/png/bg-weather.png);
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -64,7 +64,7 @@ body {
       margin-top: 10rem;
       height: 51rem;
       width: 76.8rem;
-      background-image: url(../assets/png/bg-blur.png);
+      background-image: url(./assets/png/bg-blur.png);
       h2 {
         font-weight: 400;
         font-size: 1.8rem;
